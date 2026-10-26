@@ -1,0 +1,1 @@
+{"name":"KlikSimulator","tree":{"$className":"DataModel","ReplicatedStorage":{"$className":"ReplicatedStorage"},"ServerScriptService":{"$className":"ServerScriptService","$path":"src/server"},"StarterGui":{"$className":"StarterGui","$path":"src/client"},"Workspace":{"$className":"Workspace","$ignoreUnknownInstances":true}}}

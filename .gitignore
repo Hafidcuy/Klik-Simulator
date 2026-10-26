@@ -1,0 +1,11 @@
+# File hasil build Rojo — tidak perlu masuk repo
+*.rbxlx
+*.rbxl
+*.rbxm
+
+# Folder plugin Rojo lokal (opsional)
+rojo/
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
